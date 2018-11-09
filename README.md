@@ -7,7 +7,7 @@
 
 ---
 
-Specialization Link: https://cognitiveclass.ai/learn/data-science-with-python/
+Learning Path Link: https://cognitiveclass.ai/learn/data-science-with-python/
 
 ---
 
