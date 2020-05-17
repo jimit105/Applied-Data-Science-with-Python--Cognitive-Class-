@@ -12,5 +12,5 @@ Learning Path Link: https://cognitiveclass.ai/learn/data-science-with-python/
 ---
 
 ## Courses:
-* [Data Analysis with Python](/Data%20Analysis%20with%20Python)
-* [Data Visualization with Python](/Data%20Visualization%20with%20Python)
+* [Data Analysis with Python](Data%20Analysis%20with%20Python)
+* [Data Visualization with Python](Data%20Visualization%20with%20Python)
